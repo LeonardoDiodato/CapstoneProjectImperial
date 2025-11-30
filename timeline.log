@@ -1,0 +1,4 @@
+26/11/2025
+- downloaded and explored the initial dataset for the functions:
+from this first exploration I've determined that the domain space for each of the function is normalized already between the values 0 and 1 for each feature / dimension.
+First submission is for data points with value 0.5 in each dimension (as in middle of the domain space)
