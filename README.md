@@ -42,3 +42,7 @@ This is to ensure a wider coverage of the domain space in the first half of the 
 I will also try during the course of this challenge to use other ML methods, were possible.
 
 ## Datasheet
+https://github.com/LeonardoDiodato/CapstoneProjectImperial/blob/main/Datasheet.md
+
+## Model Card
+https://github.com/LeonardoDiodato/CapstoneProjectImperial/blob/main/Model%20card.md
