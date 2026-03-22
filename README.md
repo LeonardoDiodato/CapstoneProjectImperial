@@ -46,3 +46,17 @@ https://github.com/LeonardoDiodato/CapstoneProjectImperial/blob/main/Datasheet.m
 
 ## Model Card
 https://github.com/LeonardoDiodato/CapstoneProjectImperial/blob/main/Model%20card.md
+
+## Additional Notes on the code folder
+
+A brief summary to understand better the folder contents:
+
+On week 1 I did a quick exploration of the data provided and decided to query the point with coordinates value 0.5 for each dimension on every function.
+
+From week 2 onward I've started to use Bayesian Optimization for all the functions
+
+The Jupyter Notebook files were run on a local env for functions 1 and 2 and Google Colab for every other function
+
+Since week 3 I've started to use the file Queries Data Provider to parse the input and output weekly results
+
+For some of the functions I've used neural networks on some weeks, these can be find in the neural network folder for each of the weeks, where used.
